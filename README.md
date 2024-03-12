@@ -47,5 +47,5 @@ He wants to list the following services:
 
 #### Things Needed From Client
 
-1. Before and After Photos
-2. Client Testimonials
+1. [x] Before and After Photos
+2. [ ] Client Testimonials
