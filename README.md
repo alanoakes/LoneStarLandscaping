@@ -12,7 +12,9 @@ developer-contact:
 
 # Lone Star Lawn Care
 
-This is a business website for Lone Star Lawn Care
+This is a business website for Lone Star Lawn Care. I found this local
+lawncare company [website](https://lawnlove.com/tennessee/memphis-lawn-care/cordova-lawn-care) that is very user friendly and can
+use it as a UI reference.
 
 ## Log
 
