@@ -18,6 +18,11 @@ use it as a UI reference.
 
 This is only needing to be a one page website and I'm using this [bootstrap example](https://getbootstrap.com/docs/5.3/examples/carousel/#) as the template.
 
+### Company Colors
+
+- white: white
+- green: #9AC748
+
 ## Log
 
 ### Sat 09 Mar 2024 09:00

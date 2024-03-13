@@ -78,3 +78,9 @@
 .bd-mode-toggle .dropdown-menu .active .bi {
     display: block !important;
 }
+
+/* Custom CSS 
+   ------------------------------------------------------------- */
+nav.navbar {
+    background: #9AC748 !important;
+}
