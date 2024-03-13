@@ -16,6 +16,8 @@ This is a business website for Lone Star Lawn Care. I found this local
 lawncare company [website](https://lawnlove.com/tennessee/memphis-lawn-care/cordova-lawn-care) that is very user friendly and can
 use it as a UI reference.
 
+This is only needing to be a one page website and I'm using this [bootstrap example](https://getbootstrap.com/docs/5.3/examples/carousel/#) as the template.
+
 ## Log
 
 ### Sat 09 Mar 2024 09:00
