@@ -92,19 +92,19 @@ nav.navbar {
 }
 
 .carousel-item:nth-of-type(1) {
-    background-image: url("/img/petar-tonchev-c-5-QE5kBYk-unsplash.jpg");
+    background-image: url("/assets/images/petar-tonchev-c-5-QE5kBYk-unsplash.jpg");
 }
 
 .carousel-item:nth-of-type(2) {
-    background-image: url("/img/daniel-watson-8vBpYpTGo90-unsplash.jpg");
+    background-image: url("/assets/images/daniel-watson-8vBpYpTGo90-unsplash.jpg");
 }
 
 .carousel-item:nth-of-type(3) {
-    background-image: url("/img/benjamin-ilchmann-YlFwu8_9ZKo-unsplash.jpg");
+    background-image: url("/assets/images/benjamin-ilchmann-YlFwu8_9ZKo-unsplash.jpg");
 }
 
 #ftr-img-1 {
-    background-image: url("/img/IMG_20240311_231813.jpg");
+    background-image: url("/assets/images/IMG_20240311_231813.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -113,7 +113,7 @@ nav.navbar {
 }
 
 #ftr-img-2 {
-    background-image: url("/img/IMG_20240311_231800.jpg");
+    background-image: url("/assets/images/IMG_20240311_231800.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -123,7 +123,7 @@ nav.navbar {
 
 
 #ftr-img-3 {
-    background-image: url("/img/IMG_20240311_231727.jpg");
+    background-image: url("/assets/images/IMG_20240311_231727.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
