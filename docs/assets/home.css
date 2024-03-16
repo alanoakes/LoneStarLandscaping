@@ -93,7 +93,8 @@ body, main {
     color: black !important;
 }
 
-.carousel-caption > p {
+.carousel-caption > p,
+.carousel-caption > h1 {
     color: white !important;
 }
 
