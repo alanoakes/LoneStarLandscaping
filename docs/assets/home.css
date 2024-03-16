@@ -81,9 +81,22 @@
 
 /* Custom CSS 
    ------------------------------------------------------------- */
-main {
+body, main {
     background-color: white !important;
 }
+
+#hero-logo-text,
+#icon-grid > h2,
+.ftr-sub-txt > p,
+.featurette > div > p,
+.featurette > div > h2 {
+    color: black !important;
+}
+
+.carousel-caption > p {
+    color: white !important;
+}
+
 nav.navbar {
     background: #9AC748 !important;
 }
@@ -124,8 +137,16 @@ nav.navbar {
     width: 500px;
 }
 
-
 #ftr-img-3 {
+    background-image: url("images/IMG_20240311_231741.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    height: 500px;
+    width: 500px;
+}
+
+#ftr-img-4 {
     background-image: url("images/IMG_20240311_231727.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
