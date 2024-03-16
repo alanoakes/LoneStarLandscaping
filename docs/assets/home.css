@@ -81,6 +81,9 @@
 
 /* Custom CSS 
    ------------------------------------------------------------- */
+main {
+    background-color: white !important;
+}
 nav.navbar {
     background: #9AC748 !important;
 }
