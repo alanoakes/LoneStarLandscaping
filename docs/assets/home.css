@@ -79,7 +79,7 @@
     display: block !important;
 }
 
-/* Custom CSS 
+/* Custom CSS
    ------------------------------------------------------------- */
 body, main {
     background-color: white !important;
@@ -91,6 +91,27 @@ body, main {
 .featurette > div > p,
 .featurette > div > h2 {
     color: black !important;
+}
+
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    color: white;
+    opacity: 1;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    color: white;
+    opacity: 0.5;
+}
+
+.carousel-indicators > button {
+    background-color: white;
+    opacity: 0.5;
+}
+.carousel-indicators > button.active {
+    opacity: 1;
 }
 
 .carousel-caption > p,
