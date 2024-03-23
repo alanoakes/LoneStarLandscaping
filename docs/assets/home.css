@@ -93,6 +93,10 @@ body, main {
     color: black !important;
 }
 
+.btn-no-style > a {
+    text-decoration: none;
+    color: white;
+}
 
 .carousel-control-prev-icon:hover,
 .carousel-control-next-icon:hover {
