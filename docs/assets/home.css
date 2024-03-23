@@ -84,6 +84,14 @@
 body, main {
     background-color: white !important;
 }
+footer {
+    color:black;
+}
+
+main > div.hdr-section {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
 
 #hero-logo-text,
 #icon-grid > h2,
