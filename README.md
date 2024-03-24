@@ -1,22 +1,12 @@
 ---
 date: 'Mon 11 Mar 2024 22:00'
 client: 'Lone Star Lawn Care'
-client-contact: 
-    - 'Raul Alvarado'
-    - '901-496-2711'
 developer: 'alanoakes.dev'
-developer-contact:
-    - 'Parker Oakes'
-    - '901-833-3231'
 ---
 
 # Lone Star Lawn Care
 
-This is a business website for Lone Star Lawn Care. I found this local
-lawncare company [website](https://lawnlove.com/tennessee/memphis-lawn-care/cordova-lawn-care) that is very user friendly and can
-use it as a UI reference.
-
-This is only needing to be a one page website and I'm using this [bootstrap example](https://getbootstrap.com/docs/5.3/examples/carousel/#) as the template.
+This is a business website for Lone Star Lawn Care.
 
 ### Company Colors
 
@@ -28,16 +18,15 @@ This is only needing to be a one page website and I'm using this [bootstrap exam
 ### Sat 09 Mar 2024 09:00
 
 ```yaml
+description: 'Initial Meeting Regarding Website'
 location: IHOP
 attendees:
     - 'Raul Alvarado'
     - 'Parker Oakes'
-hosted: in-person
 ```
 
 This meeting discussed what was needed for the website and how the client
-wanted the site to look. He stated he didn't know much about websites but
-wanted a site that showed people what he does as soon as they go to it.
+wanted the site to look. He stated he wanted a site that showed people what he does as soon as they go to it.
 
 He wants to list the following services:
 
